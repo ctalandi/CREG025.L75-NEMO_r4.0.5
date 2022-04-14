@@ -2,25 +2,12 @@
     "description": "<p>Source code as input files required to perform a CREG025.L75 experiment that relies on the NEMO release 4.0.5</p>", 
     "license": "other-open", 
     "title": "CREG025.L75-NEMO_r4.0.5", 
-    "version": "", 
+    "version": "v1.1", 
     "upload_type": "software", 
-    "publication_date": "", 
     "creators": [
         {
-            "name": "Talandier C. & Clique C."
+            "name": "Talandier C. & Lique C."
         }
     ], 
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "" , 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "", 
-            "relation": "isVersionOf"
-        }
-    ]
+    "access_right": "open"
 }
